@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jodfedlet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 |<p align="center">
 ![Jod F. Pierre 's github stats](https://github-readme-stats.vercel.app/api?username=jodfedlet&show_icons=true&theme=dracula)
 </p>

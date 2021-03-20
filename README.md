@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi👋🏾, I'm Jod Fedlet Pierre, a Computer Science Student</h1>
 
  <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" />

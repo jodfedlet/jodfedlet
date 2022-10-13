@@ -14,7 +14,7 @@ I currently work as a Backend Engineer at Compass.UOL and I also founded (with s
 
 - 👀 I can build, from scratch to Deploy, scalable RESTFULL API or Microservices using: Clean Arch | SOLID | DDD | API Gateway | RabbitMQ | Kafka | Docker | Keycloak
 - 🌱 I’m currently learning Clean Architecure, Kotlin.
--  I'm interested to learn ReactJs and React Native.
+-  I'm interested to learn && improve ReactJs and React Native.
 - 💞️ I’m looking to collaborate on open source projects
 - And ... I'm an eternal Student
 - 📫 How to reach me on ...

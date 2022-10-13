@@ -1,5 +1,5 @@
  👋 Hi, I’m Jod F. Pierre. 
-I am a bachelor of computer Science from Federal University of Fronteira Sul (UFFS).
+A bachelor of computer Science from Federal University of Fronteira Sul (UFFS).
 My areas of interest are Software Engineering, Software Architecture, Machine Learning, Cryptography and Data Science.
 I currently work as a Backend Engineer at Compass.UOL and I weekly work at [@mjcodegroup](https://github.com/mjcodegroup), a digital agency that develops software for people founded by me (with some colleagues). 
 

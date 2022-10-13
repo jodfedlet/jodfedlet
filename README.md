@@ -1,6 +1,6 @@
  👋 Hi, I’m Jod F. Pierre. 
 I am a bachelor of computer Science from Federal University of Fronteira Sul (UFFS).
-My areas of interest are Software Engineering, Software Architecture, Machine Learning and Data Science.
+My areas of interest are Software Engineering, Software Architecture, Machine Learning, Cryptography and Data Science.
 I currently work as a Backend Engineer at Compass.UOL and I weekly work at [@mjcodegroup](https://github.com/mjcodegroup), a digital agency that develops software for people founded by me (with some colleagues). 
 
 
@@ -21,7 +21,7 @@ I currently work as a Backend Engineer at Compass.UOL and I weekly work at [@mjc
 ### 🤝 Connect with me on:
 
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jodfedlet)](https://github.com/jodfedlet)
+[![Jod's github stats](https://github-readme-stats.vercel.app/api?username=jodfedlet)](https://github.com/jodfedlet)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jodfedlet&layout=compact)](https://github.com/jodfedlet)
 
 

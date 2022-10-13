@@ -17,7 +17,7 @@ I currently work as a Backend Engineer at Compass.UOL and I also founded (with s
 -  I'm interested to learn && improve ReactJs and React Native.
 - 💞️ I’m looking to collaborate on open source projects
 - And ... I'm an eternal Student
-- 📫 How to reach me on ...
+- 📫 You can reach me on ...
 
 <!---
 jodfedlet/jodfedlet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

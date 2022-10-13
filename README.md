@@ -17,8 +17,8 @@ I currently work as a Backend Engineer at Compass.UOL and I weekly work at [@mjc
 -  I'm interested to learn/improve ReactJs and React Native.
 - 💞️ I’m looking to collaborate in open source projects.
 - And ... I'm an eternal Student
-- 📫 You can reach me on ...
 
+### 🤝 Connect with me on:
 
 <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>

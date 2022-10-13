@@ -21,8 +21,8 @@ I currently work as a Backend Engineer at Compass.UOL and I weekly work at [@mjc
 
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jodfedlet)](https://github.com/jodfedlet)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jodfedlet&layout=compact)](https://github.com/jodfedlet)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
 
 <!---
 jodfedlet/jodfedlet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

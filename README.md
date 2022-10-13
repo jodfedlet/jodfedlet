@@ -20,11 +20,8 @@ I currently work as a Backend Engineer at Compass.UOL and I weekly work at [@mjc
 
 ### 🤝 Connect with me on:
 
-[https://www.linkedin.com/sharing/share-offsite/?url=](https://www.linkedin.com/in/jod-fedlet-pierre-b6ab56152/)
-
-![Jod's GitHub stats](https://github-readme-stats.vercel.app/api?username=jodfedlet&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jodfedlet&layout=compact&theme=radical)](https://github.com/jodfedlet/github-readme-stats)
-
+![Jod's GitHub stats](https://github-readme-stats.vercel.app/api?username=jodfedlet&show_icons=true&theme=radical)
 <!---
 jodfedlet/jodfedlet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

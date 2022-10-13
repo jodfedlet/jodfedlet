@@ -20,11 +20,6 @@ I currently work as a Backend Engineer at Compass.UOL and I weekly work at [@mjc
 
 ### 🤝 Connect with me on:
 
-<a href="https://www.linkedin.com/in/jod-fedlet-pierre-b6ab56152/"><img align="left" src="https://raw.githubusercontent.com/jodfedlet/jodfedlet/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/jodfedlet/jodfedlet/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-width="21px"/></a>
-</br>
-
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jodfedlet)](https://github.com/jodfedlet)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jodfedlet&layout=compact)](https://github.com/jodfedlet)

@@ -24,13 +24,6 @@ I currently work as a Backend Engineer at Compass.UOL and I weekly work at [@mjc
 ![Jod's GitHub stats](https://github-readme-stats.vercel.app/api?username=jodfedlet&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jodfedlet&layout=compact&theme=radical)](https://github.com/jodfedlet/github-readme-stats)
 
-<a href="https://github.com/jodfedlet/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jodfedlet&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/jodfedlet/TCC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jodfedlet&repo=TCC" />
-</a>
-
 <!---
 jodfedlet/jodfedlet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

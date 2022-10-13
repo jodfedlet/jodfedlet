@@ -8,9 +8,9 @@ I currently work as a Backend Engineer at Compass.UOL and I also founded (with s
 ## Here are some of my other stacks or interests:
 
 * Programming: Data structures, C, Java, Python, JavaScript, PHP, TypeScript && Kotlin.
-* Backend: NodeJs, NestJs, Jest, Php, Laravel, PhpUnit && Kotlin (SpringBoot)
+* Backend: NodeJs, NestJs, Jest, Php, Laravel, PhpUnit && Kotlin (SpringBoot).
 * DataBases: SQL, MySQL && PostgreSQL | NoSQL, MongoDB && Redis.
-* Others: Docker, Kubernetes, Jenkins, HTML5, CSS3, SOLID, DDD, Clean Architecture
+* Others: Docker, Kubernetes, Jenkins, Heroku, HTML5, CSS3, Vuejs, ReactJs, SOLID, DDD && Clean Architecture.
 
 - 👀 I can build, from scratch to Deploy, scalable RESTFULL API or Microservices using: Clean Arch | SOLID | DDD | API Gateway | RabbitMQ | Kafka | Docker | Keycloak
 - 🌱 I’m currently learning Clean Architecure, Kotlin.

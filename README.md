@@ -5,7 +5,7 @@ I currently work as a Backend Engineer at Compass.UOL and I also founded (with s
 
 
 
-## Here are some of my othres stacks or interests:
+## Here are some of my other stacks or interests:
 
 * Programming: Data structures, C, Java, Python, JavaScript, PHP, TypeScript && Kotlin.
 * Backend: NodeJs, NestJs, Jest, Php, Laravel, PhpUnit && Kotlin (SpringBoot)

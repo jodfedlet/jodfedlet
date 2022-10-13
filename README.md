@@ -23,6 +23,7 @@ I currently work as a Backend Engineer at Compass.UOL and I weekly work at [@mjc
 
 ![Jod's GitHub stats](https://github-readme-stats.vercel.app/api?username=jodfedlet&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jodfedlet&layout=compact&theme=radical)](https://github.com/jodfedlet/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jodfedlet)](https://github.com/jodfedlet/github-readme-stats)
 
 
 

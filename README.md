@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jod F. Pierre. bachelor of computer Science from Federal Univertity of Fronteira Sul (UFFS)
+- 👋 Hi, I’m Jod F. Pierre. bachelor of computer Science from Federal University of Fronteira Sul (UFFS)
 - I m a Backend Engineer working at Compass.UOL using stacks such: JS/TS | NodeJs/NestJs/Jest | Kotlin | MongoDB | Kubernetes | Jenkins | Docker
 - I also have solid knowledge in: PHP/Laravel/PHPUnit | Mysql | PostgreSQL | SOLID
 - 👀 I’m interested in Software Engineering & Architecture, Machine Learning and Data Science.

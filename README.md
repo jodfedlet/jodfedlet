@@ -20,8 +20,7 @@ I currently work as a Backend Engineer at Compass.UOL and I weekly work at [@mjc
 
 ### 🤝 Connect with me on:
 
-https://www.facebook.com/sharer.php?u=https://www.linkedin.com/in/jod-fedlet-pierre-b6ab56152/
-
+https://www.linkedin.com/sharing/share-offsite/?url={url}
 
 ![Jod's GitHub stats](https://github-readme-stats.vercel.app/api?username=jodfedlet&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jodfedlet&layout=compact&theme=radical)](https://github.com/jodfedlet/github-readme-stats)

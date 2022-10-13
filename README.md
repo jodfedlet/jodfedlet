@@ -18,11 +18,15 @@ I currently work as a Backend Engineer at Compass.UOL and I weekly work at [@mjc
 - 💞️ I’m looking to collaborate in open source projects.
 - And ... I'm an eternal Student
 - 📫 You can reach me on ...
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+</br>
 
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jodfedlet)](https://github.com/jodfedlet)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jodfedlet&layout=compact)](https://github.com/jodfedlet)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
+
 
 <!---
 jodfedlet/jodfedlet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

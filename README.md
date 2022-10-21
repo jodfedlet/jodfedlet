@@ -19,10 +19,7 @@ I currently work as a Backend Engineer at Compass.UOL and I weekly work at [@mjc
 
 #### 💥 Connect with me on:
 
-<div id="badges">
 <div>
-     <a href="https://www.linkedin.com/in/jodfedlet" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-#0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     
      <a href="https://www.linkedin.com/in/jodfedlet" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-#0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   <a href="https://twitter.com/jod_fedlet" target="_blank">

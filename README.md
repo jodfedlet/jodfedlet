@@ -21,7 +21,7 @@ I currently work as a Backend Engineer at Compass.UOL and I weekly work at [@mjc
 
 <div id="badges">
 <div>
-  <a href="https://www.linkedin.com/in/jod-fedlet-pierre-b6ab56152" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-#0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/jodfedlet/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-#0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/jod_fedlet" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>

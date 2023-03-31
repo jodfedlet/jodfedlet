@@ -31,7 +31,7 @@ I currently work as a Backend Engineer at Compass.UOL and I weekly work at [@mjc
   <a href="https://www.instagram.com/jodlereveur/?hl=fr/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
  <a href="https://www.facebook.com/JodFedlet" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://t.me/jodpierre" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="http://jodfedlet.me/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://dev.to/jodfedlet" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=jodfedlet&color=blueviolet" alt="Profile views" /> </p>
 </div>

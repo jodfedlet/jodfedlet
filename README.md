@@ -7,7 +7,7 @@ I currently work as a Backend Engineer at Compass.UOL and I weekly work at [@mjc
 ## Here are some of my other stacks or interests:
 
 * Programming: Data structures, C, Java, Python, JavaScript, PHP, TypeScript && Kotlin.
-* Backend: NodeJs, NestJs, Jest, Php, Laravel, Spring Boot && Kotlin.
+* Backend: NodeJs/NestJs, Php/Laravel, Java/Spring Boot && Kotlin.
 * DataBases: SQL, MySQL && PostgreSQL | NoSQL, MongoDB && Redis.
 * Others: Docker, Kubernetes, Jenkins, Heroku, HTML5, CSS3, Vuejs, ReactJs, SOLID, DDD && Clean Architecture, Auth0.
 

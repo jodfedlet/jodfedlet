@@ -9,7 +9,7 @@ I currently work as a Backend Engineer at Compass.UOL and I weekly work at [@mjc
 * Programming: Data structures, C, Java, Python, JavaScript, PHP, TypeScript && Kotlin.
 * Backend: NodeJs/NestJs, Php/Laravel, Java/Spring Boot && Kotlin.
 * DataBases: SQL, MySQL && PostgreSQL | NoSQL, MongoDB && Redis.
-* Others: Docker, Kubernetes, Jenkins, Heroku, HTML5, CSS3, Vuejs, ReactJs, SOLID, DDD && Clean Architecture, Auth0.
+* Others: Docker, Kubernetes, Jenkins, Heroku, HTML5, CSS3, Vuejs, ReactJs, SOLID, DDD && Clean Architecture, Keycloak && Auth0.
 
 - 👀 I can build, from scratch to Deploy, scalable RESTFULL API or Microservices using: Clean Arch | SOLID | DDD | API Gateway | RabbitMQ | Kafka | Docker | Keycloak | Auth0.
 - 🌱 I’m currently learning/improving Design patterns, Clean Architecture, Spring Boot 3x and AWS.

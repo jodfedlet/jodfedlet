@@ -12,7 +12,7 @@ I currently work as a Backend Engineer at Compass.UOL and I weekly work at [@mjc
 * Others: Docker, Kubernetes, Jenkins, Heroku, HTML5, CSS3, SOLID, Hexagonal Architecture, DDD && Clean Architecture, Keycloak && Auth0.
 
 - 👀 I can build, from scratch to Deploy, scalable RESTFULL API or Microservices using: Clean Arch | SOLID | DDD | API Gateway | RabbitMQ | Kafka | Docker | Keycloak | Auth0.
-- 🌱 I’m currently learning/improving DDD, Design patterns, Clean Architecture, Spring Boot 3x and AWS.
+- 🌱 I’m currently learning/improving DDD, Design patterns, Clean Architecture,System Design and AWS.
 -  I'm interested to learn/improve GCP.
 - 💞️ I’m looking to collaborate to open source projects.
 - And ... I'm an eternal Student
